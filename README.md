@@ -97,9 +97,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=19karim&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=19karim&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19karim&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19karim&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
