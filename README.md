@@ -1,4 +1,4 @@
-### <div align="center">Hi there! I'm Karim, currently pursuing my Post Graduation Certification with a specialization in Data Science👨‍💻 at Imarticus Learning Institute. I have a strong passion for exploring and analyzing data to derive meaningful insights. 🚀</div>  
+### <div align="center">Hi there! I'm Karim, currently pursuing my Post Graduation Certification with a specialization in Data Science👨‍💻 at Imarticus Learning Institute. I have a strong passion for exploring and analyzing data to derive meaningful insights. 🚀</div> 
   
 
 
